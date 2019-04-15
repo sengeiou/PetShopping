@@ -8,7 +8,7 @@
 开源只为共同学习，请勿商用。问题或者指正请EMAIL:maiduoduo0@163.com
 
 
-####目前已完成的或者正在完成功能模块有：
+#### 目前已完成的或者正在完成功能模块有：
 
  - 主页：
 		-底部导航搭建  TabLayout + Fragment
@@ -51,7 +51,7 @@
 		-消息界面
 		等
 
-####后续要完成
+#### 后续要完成
 
 		- 消息界面
 		-购物车板块
@@ -59,7 +59,7 @@
 		-商品详情
 		等
 
-####其中使用的三方开源框架（后期会细化整理所有项目使用到的开源框架）
+#### 其中使用的三方开源框架（后期会细化整理所有项目使用到的开源框架）
 		  -BaseQuickAdapter
 		  -Glide
 		  -Fresco
@@ -67,7 +67,7 @@
 		  等
 		  -感谢开源，感谢项目中的开源方
 
-####环境
+#### 环境
 		 -AndroidStudio3.2
 			-Android Studio 3.2
 			Build #AI-181.5540.7.32.5014246, built on September 18, 2018
@@ -77,7 +77,7 @@
 		-SVN
 		_gradle构建：gradle-4.6-all.zip
   
-####声明
+#### 声明
 	-此项目只作为平时开发练习及构思项目，请勿做其他任何商用，
 	-项目部分数据来源于 **E宠商城**
 	-如果项目中引入框架或者数据上有侵范行为，请联系我删除。Email:maiduoduo0@163.com
@@ -124,7 +124,8 @@
 
 
 
-####关于LICENSE
+#### 关于LICENSE
+<br/>
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
